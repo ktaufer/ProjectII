@@ -1,0 +1,83 @@
+#map{
+    width: 100%;
+    height: 400px;
+    padding: 2%;
+    border-style: groove;
+    border-color: burlywood;
+    border-width: 10px;
+}
+
+img{
+    display: grid;
+}
+
+#jumbotron{
+    color: burlywood;
+    background-color: darkolivegreen;
+    margin: 0px;
+    padding: 0%;
+}
+
+h1{
+    font-style: oblique;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h3{
+    margin: 10px;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-image: url('forest2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 2%;
+    margin: 0%;
+}
+
+#image{
+    display: grid;
+    color: burlywood;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: medium;
+    background-color: darkolivegreen;
+}
+
+#audio{
+    display: grid;
+    color: burlywood;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: medium;
+    background-color: darkolivegreen;
+}
+
+#countries{
+    color: darkolivegreen;
+    margin: 10px;
+}
+
+div{
+    padding: 2%;
+}
+
+#plot{
+    height: 800px;
+    position: relative;
+    width: 100%;
+    padding: 2%;
+    justify-content: center;
+}
+
+#menu{
+    display: grid;
+    color: burlywood;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: medium;
+    background-color: darkolivegreen;
+}
